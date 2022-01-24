@@ -1,0 +1,37 @@
+/* style.css */
+
+* {
+    background-color: brown;
+}
+div {
+    color:blueviolet;
+    background-color: crimson;
+}
+
+p {
+    color:chartreuse;
+    background-color: black;
+}
+ul {
+    color: red;
+    
+}
+ol {
+    color:white;
+    
+}
+h1, 
+h3 {
+    color: blue;
+    background-color: black;
+}
+img {
+    height: auto;
+    width: 300px;
+  }
+.alert {
+      background-color: cyan;
+  }
+.center {
+    text-align: center;
+}  
